@@ -6,6 +6,13 @@
 
 ![デモ画像](https://cdn.discordapp.com/attachments/1007207278497251341/1254451399400493139/image.png?ex=66798a68&is=667838e8&hm=804ec826c515af26a92cf696fa5e833ce3df7986e3a2a0e68a164c48e3e2ff56&)
 
+## プレビューページ
+
+プロジェクトのプレビューページは以下のリンクからアクセスできます：
+
+[https://mintannn.github.io/Dot-Image-Converter2](https://mintannn.github.io/Dot-Image-Converter2)
+
+
 ## 機能
 
 - 画像のアップロード
